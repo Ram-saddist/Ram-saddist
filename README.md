@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ram Teja
 - 👀 I’m interested in learning and train others on what I learn and guide them in right path.
-- 🌱 I’m currently learning all the needed and advanced tech
+- 🌱 I’m currently learning all the needed advanced tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through mail nagulavancharavisivaramteja@gmail.com
 
