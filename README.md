@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Ram Teja
-- 👀 I’m interested in learning and train others on what I learn and guide them in right path.
-- 🌱 I’m currently learning all the needed advanced tech
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through mail nagulavancharavisivaramteja@gmail.com
+Hello, I’m Ravi Siva Ram Teja Nagulavancha.
+
+I have a strong passion for learning new technologies and training others, guiding them towards the right path in their professional journey.
+
+I am currently focused on mastering advanced technologies to enhance my skill set
+
+I am open to collaboration on innovative projects that leverage my expertise in Full Stack Development.
+
+You can reach me via email at nagulavancharavisivaramteja@gmail.com.
+
 
 <!---
 Ram-saddist/Ram-saddist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
